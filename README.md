@@ -1,5 +1,4 @@
 # EEE3088F-project-team-2
-All course assignments
 The HAT is designed to function as a device that detects temperature. The proposed device is compact, passive and can convert thermal energy into an electrical signal output. It has practical applications for various groups of people, such as shipping security companies, farmers and civilians.
 
 The HAT has several potential applications, including monitoring the temperature in greenhouses, detecting abnormal temperature changes in data centres, and tracking battery temperature on smartphones.
